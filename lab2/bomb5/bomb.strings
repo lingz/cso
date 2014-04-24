@@ -1,0 +1,231 @@
+/lib/ld-linux.so.2
+__gmon_start__
+libc.so.6
+_IO_stdin_used
+socket
+fflush
+strcpy
+__printf_chk
+exit
+fopen
+__isoc99_sscanf
+connect
+signal
+puts
+__stack_chk_fail
+stdin
+strtol
+fgets
+__errno_location
+read
+__fprintf_chk
+stdout
+__memmove_chk
+strcasecmp
+__ctype_b_loc
+getenv
+stderr
+alarm
+gethostbyname
+gethostname
+__memcpy_chk
+close
+sleep
+__sprintf_chk
+__libc_start_main
+write
+GLIBC_2.3
+GLIBC_2.1
+GLIBC_2.7
+GLIBC_2.3.4
+GLIBC_2.4
+GLIBC_2.0
+PTRh
+QVhD
+\$0e
+D$|1
+D$|e3
+UWVS
+<[^_]
+UWVS
+D$(e
+Erro
+r: C
+lien
+t un
+able
+ to 
+crea
+te s
+A ockef
+Erro
+r: D
+NS i
+s un
+able
+ to 
+reso
+lve 
+@ serv
+@$er a
+@(ddref
+@,ss
+Erro
+r: U
+nabl
+e to
+ con
+nect
+ to 
+the 
+B servf
+B$er
++t$<)
+Erro
+r: R
+esul
+t st
+ring
+ too
+ lar
+ge. 
+@ Incr
+@$ease
+@( SUB
+@,MITR
+@0_MAX
+@4BUF
+<*t$<-t <.t
+i< u
+<	ub
+Erro
+r: C
+lien
+t un
+able
+ to 
+writ
+e to
+B  the
+B$ ser
+B(ver
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ fir
+B st h
+B$eade
+B(r fr
+B,om s
+B0ervef
+D$D=
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ hea
+B ders
+B$ fro
+B(m se
+B,rver
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ sta
+B tus 
+B$mess
+B(age 
+B,from
+B0 ser
+B4ver
+[^_]
+t$Pe
+D$<1
+Erro
+r: C
+lien
+t un
+able
+ to 
+crea
+te s
+F ockef
+Erro
+r: D
+NS i
+s un
+able
+ to 
+reso
+lve 
+F serv
+F$er a
+F(ddref
+F,ss
+D$.;n
+T$<e3
+@[^_
+UWVS
+[^_]
+%s: Error: Couldn't open %s
+Usage: %s [<input_file>]
+That's number 2.  Keep going!
+Halfway there!
+Good work!  On to the next...
+Welcome to my fiendish little bomb. You have 6 phases with
+which to blow yourself up. Have a nice day!
+Phase 1 defused. How about the next one?
+So you got that one.  Try this one.
+I am for medical liability at the federal level.
+Wow! You've defused the secret stage!
+devils
+maduiersnfotvbylSo you think you can stop the bomb with ctrl-c, do you?
+Initialization error: Running on an illegal host [1]
+Initialization error: Running on an illegal host [2]
+ERROR: Input string is too large.
+Your instructor has been notified.
+Curses, you've found the secret phase!
+But finding it and solving it are quite different...
+Congratulations! You've defused the bomb!
+Your instructor has been notified and will verify your solution.
+Well...
+OK. :-)
+Invalid phase%s
+Initialization error:
+defused
+exploded
+%d:%s:%d:%s
+BOOM!!!
+The bomb has blown up.
+Error: Premature EOF on stdin
+GRADE_BOMB
+Error: Input line too long
+***truncated***
+%d %d %d %d %d %d
+%d %d %s
+DrEvil
+orgmachine.cs.nyu.edu
+crashbox
+Program timed out after %d seconds
+Error: Result string contains an illegal or unprintable character.
+Error: HTTP request failed with error %d: %s
+GET /%s/submitr.pl/?userid=%s&lab=%s&result=%s&submit=submit HTTP/1.0
+Error: Unable to connect to server %s
+%%%02X
+%s %d %[a-zA-z ]
+crash.cs.nyu.edu
+AUTORESULT_STRING=%s
+csapp
+;*2$" 
+lz781
